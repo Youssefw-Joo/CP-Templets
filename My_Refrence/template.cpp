@@ -17,5 +17,5 @@ signed main()
 {
     Goat
     int t = 1; //cin >> t;
-    test();
+    while (t--) test();
 }
