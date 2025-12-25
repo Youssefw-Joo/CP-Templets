@@ -6,6 +6,7 @@ using namespace __gnu_pbds;
 typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> orderedSet;
 #define Goat ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
 #define endl '\n'
+#define el endl
 #define ld  long double
 #define all(a)       a.begin(), a.end()
 #define allr(a)      a.rbegin(), a.rend()
